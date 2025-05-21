@@ -1,11 +1,11 @@
 # This is a 10 Academy KAIM Week 0 task
-# In Windows, virtual environment can be created and activated as follows
-# python -m venv virtual_name # creation
-# virtual_name\Scripts\activate # activation
-# deactivate #activation
-# deactivate #deactivation
+ In Windows, virtual environment can be created and activated as follows
+python -m venv virtual_name # creation
+ virtual_name\Scripts\activate # activation
+  deactivate #activation
+ deactivate #deactivation
 # Solar Data Analysis and EDA
-# A data analysis project focused on exploring and cleaning solar irradiance and weather data from multiple African countries (Benin, Togo, Sierra Leone). The goal is to uncover trends, detect anomalies, and prepare data for future modeling.
+ A data analysis project focused on exploring and cleaning solar irradiance and weather data from multiple African countries (Benin, Togo, Sierra Leone). The goal is to uncover trends, detect anomalies, and prepare data for future modeling.
 # Folder Structure
 ├── data/                  # Cleaned CSV files (not committed; see .gitignore)
 ├── Notebook/              # Jupyter notebooks for each country
