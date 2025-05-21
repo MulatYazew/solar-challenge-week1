@@ -5,7 +5,7 @@
   deactivate #activation
  deactivate #deactivation
 # Solar Data Analysis and EDA
-# A data analysis project focused on exploring and cleaning solar irradiance and weather data from multiple African countries (Benin, Togo, Sierra Leone). The goal is to uncover trends, detect anomalies, and prepare data for future modeling.
+ A data analysis project focused on exploring and cleaning solar irradiance and weather data from multiple African countries (Benin, Togo, Sierra Leone). The goal is to uncover trends, detect anomalies, and prepare data for future modeling.
 
 ## Folder Structure
 ├── data/                  # Cleaned CSV files (not committed; see .gitignore)
