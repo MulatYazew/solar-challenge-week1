@@ -47,4 +47,3 @@
 ## Contributing
 
 Feel free to fork this repo and submit pull requests for improvements or country extensions.
-
